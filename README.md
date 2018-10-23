@@ -8,5 +8,9 @@ Microcontroller used :
 - Nodemcu 
 - gps neo ublox
 
+Libraries
+- TinyGpsPlus
+- Firebase Arduino
+
 Database Realtime
 - Firebase
